@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad09393-4b11-42bf-803c-0d85835a7e5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c2Oo7fVoShgkby8Sal0aJTmMHR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.ModerateClassTest">
+    <configuration name="ModerateClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaHUTTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crossover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crossover" />
+      <option name="MAIN_CLASS_NAME" value="com.crossover.ModerateClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaHUTTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crossover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crossover" />
+      <option name="MAIN_CLASS_NAME" value="com.crossover.SimpleClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ModerateClassTest" />
+        <item itemvalue="JUnit.SimpleClassTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Interview-project/scala-graphql-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Interview-project/setu_project/setu-biller-api-hosting" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-business-invoice-tool" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-domain-id-definitions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-dw-data-terms" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-dw-kudu-data-mart" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-notification-dispatch" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-perpetual-task-executor/project-code" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-perpetual-task-executor/samples/perpetual-task-executor-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-pricing-standards" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-pricing-standards-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-product-dtos" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-products-client" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-products-storage" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-sellerside-backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-sellerside-web" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Zilingo-codebase/zilingo-userside-backend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad09393-4b11-42bf-803c-0d85835a7e5b" name="Default Changelist" comment="" />
+      <created>1589723393419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589723393419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589954539979">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1589954539979" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1590081324702">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590081324702" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1590081324698">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590081324698" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1590081324696">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590081324696" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1590081324699">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590081324699" />
+  </component>
+</project>
