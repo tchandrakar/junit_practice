@@ -1,8 +1,7 @@
 # JAVA HUT Evaluation Practice
 
-Please create unit tests for SimpleClass.java, ModerateClass.java, HardClass.java.
+Create unit tests for SimpleClass.java, ModerateClass.java, HardClass.java.
 
-Leaking code and coverage to classes used by ComponentReportObj may result in poor quality tests and/or errors.
 A good UT should isolate the code tested.
 
 ## Project Frameworks
@@ -34,4 +33,3 @@ Please note that, all tools are already pre installed on the host.
 * Java
 * IntelliJ IDEA
 
-You can review the solution provided in practice answers project, but better to attempt the unit tests yourself first.
